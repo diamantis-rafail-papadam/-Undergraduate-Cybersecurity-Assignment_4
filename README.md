@@ -7,4 +7,4 @@ To test the program, follow these steps:
 - Downloand and unzip "Implementation.zip".
 - Go to the src directory.
 - Run "make". You might get some warnings about deprecated functions that you can ignore.
-- Follow the instructions in the README file to test the functionality of the program.
+- Follow the instructions in the README file to test the functionality of the program. 
